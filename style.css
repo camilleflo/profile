@@ -1,0 +1,65 @@
+
+body {
+  display: block;
+  margin: 8px;
+  background-color: #F7F9FC;
+}
+
+.police-title {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 1.5em;
+  display: block;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.card-white {
+
+  background-color: #F6F6F6;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+.btn-blue {
+  background-color: #6B72E1;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 18px;
+}
+
+.img-circle {
+    border-radius: 50%
+
+}
+i {
+  font-size: 3em;
+}
+
+p {
+  font-family: 'Source Serif Pro', serif;
+  display: block;
+  margin-block-start: 2em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: -11px;
+}
+a {
+  font-family: Roboto, sans-serif;
+  color: rgb(107, 114, 225);
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.text-green {
+  color:#7ECE90;
+}
